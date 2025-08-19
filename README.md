@@ -29,15 +29,15 @@ A **console-based application** that converts temperatures between **Celsius ↔
 A **web scraping tool** that fetches data from websites, processes it, and displays results in a structured format.
 
 ## 📂 Project Structure
-A **cognifyz_SD-Intern-main/**
-    │
-    ├── Crud_operation adv.py
-    ├── crud_operation.py
-    ├── simple_number_pattern.py
-    ├── temperature_conversion.py
-    ├── text-based game.py
-    ├── web scraping.py
-    └── README.md
+cognifyz_SD-Intern-main/
+│
+├── Crud_operation adv.py
+├── crud_operation.py
+├── simple_number_pattern.py
+├── temperature_conversion.py
+├── text-based game.py
+├── web scraping.py
+└── README.md
 
 
 ---
@@ -78,7 +78,6 @@ If you like this project, give it a **star ⭐** on GitHub!
 ## 👨‍💻 Author
 **Sushanth**  
 📧 Contact: [EMAIL](littlecodly@gmail.com)  
-🌐 GitHub: [@demon-codly]([littlecodly@gmail.com](https://github.com/demon-codly))
+🌐 GitHub: [@demon-codly](https://github.com/demon-codly))
 
-## 📂 Project Structure
 
