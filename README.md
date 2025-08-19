@@ -29,18 +29,13 @@ A **console-based application** that converts temperatures between **Celsius ↔
 A **web scraping tool** that fetches data from websites, processes it, and displays results in a structured format.
 
 ## 📂 Project Structure
-undefined
-cognifyz_SD-Intern-main/
-│
-├── Crud_operation adv.py
-├── crud_operation.py
-├── simple_number_pattern.py
-├── temperature_conversion.py
-├── text-based game.py
-├── web scraping.py
-└── README.md
-undefined
-
+- `Crud_operation adv.py`
+- `crud_operation.py`
+- `simple_number_pattern.py`
+- `temperature_conversion.py`
+- `text-based game.py`
+- `web scraping.py`
+- `README.md`
 ---
 
 ## 💻 How to Run
